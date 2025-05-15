@@ -193,23 +193,23 @@ export const TESTIMONIALS = [
       "I thought it was impossible to make a website as beautiful as our product, but Jerin proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
-    company: "Acme Co",
+    company: "Sippd",
     image: user1,
   },
   {
     testimonial:
       "I've never met a web developer who truly cares about their clients' success like Jerin does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
+    name: "Steve Ethberge",
+    designation: "CTO",
+    company: "PockitTV",
     image: user2,
   },
   {
     testimonial:
       "After Jerin optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+    name: "Yingbo Li",
+    designation: "CEO",
+    company: "Eazifunds",
     image: user3,
   },
 ] as const;
