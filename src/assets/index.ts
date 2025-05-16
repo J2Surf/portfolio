@@ -47,6 +47,8 @@ import github from "./socials/github.svg";
 import linkedin from "./socials/linkedin.svg";
 import twitter from "./socials/twitter.svg";
 import telegram from "./socials/telegram.svg";
+import discord from "./socials/discord.svg";
+import email from "./socials/email.svg";
 
 export {
   backend,
@@ -71,12 +73,8 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
   digible,
   codment,
-  tesla,
   project1,
   project2,
   project3,
@@ -90,4 +88,6 @@ export {
   telegram,
   linkedin,
   twitter,
+  discord,
+  email,
 };

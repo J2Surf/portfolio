@@ -18,12 +18,8 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
   digible,
   codment,
-  tesla,
-  shopify,
   threejs,
   project1,
   project2,
@@ -38,6 +34,8 @@ import {
   linkedin,
   twitter,
   github,
+  discord,
+  email,
 } from "../assets";
 
 // Navbar Links
@@ -351,6 +349,16 @@ export const PROJECTS = [
 ] as const;
 
 export const SOCIALS = [
+  {
+    name: "Email",
+    icon: email,
+    link: "mailto:jerin.dev.jobi@gmail.com",
+  },
+  {
+    name: "Discord",
+    icon: discord,
+    link: "https://discord.com/invite/j2surf",
+  },
   {
     name: "Telegram",
     icon: telegram,
